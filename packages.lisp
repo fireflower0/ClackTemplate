@@ -1,7 +1,7 @@
-;; Clackをロード
+;; Load Clack
 (ql:quickload :clack)
 
-;; パッケージとして宣言
+;; Declare as a package
 (defpackage sample-web-app
   (:use :common-lisp
         :clack))
