@@ -1,4 +1,4 @@
-# OLED-SSD1351
+# ClackTemplate
 
 Web application template using [Clack](https://github.com/fukamachi/clack).  
 
